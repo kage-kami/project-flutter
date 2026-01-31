@@ -1,1 +1,3 @@
-# project-flutterتطبيق منصة كورسات تجمع الكورسات المجانيه والمدفوعه في مكان واحد - لا احتكار كل شي مجاني - The Courses Platform app brings together free and paid courses in one place - no monopoly, everything is free.
+تطبيق منصة كورسات تجمع الكورسات المجانيه والمدفوعه في مكان واحد - لا احتكار كل شي مجاني -
+
+The Courses Platform app brings together free and paid courses in one place - no monopoly, everything is free.
