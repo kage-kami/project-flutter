@@ -1,17 +1,13 @@
-# Courses
+🎓 منصة كورسات مفتوحة
 
-A new Flutter project.
+منصة تعليمية تهدف إلى جمع الكورسات المجانية والمدفوعة في مكان واحد وإتاحتها بشكل مجاني بالكامل، بدون احتكار أو حواجز.
+هدفنا هو نشر المعرفة وجعل التعليم متاحًا للجميع دون قيود.
 
-## Getting Started
+✨ كل شيء مجاني — لا احتكار، لا اشتراكات إجبارية.
 
-This project is a starting point for a Flutter application.
+🎓 Open Courses Platform
 
-A few resources to get you started if this is your first Flutter project:
+An educational platform that aims to bring together free and paid courses in one place and make them fully accessible for free, with no monopoly or barriers.
+Our goal is to spread knowledge and make education available to everyone.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+✨ Everything is free — no monopoly, no forced subscriptions.
